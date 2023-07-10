@@ -11,7 +11,7 @@
 
 - :zap: Являюсь бакалавром ЛЭТИ по направлению: "Управление в технических системах".
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Vitalyfront-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Zmykhiao) 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-VitalySigaev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Zmykhiao) 
 
 
 
